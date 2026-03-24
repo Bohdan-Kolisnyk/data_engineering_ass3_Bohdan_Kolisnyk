@@ -1,0 +1,35 @@
+item_id,restaurant_id,name,category,price,is_available
+1,1,Borshch,soup,95.00,true
+2,1,Varenyky with potato,main,110.00,true
+3,1,Chicken Kyiv,main,165.00,true
+4,2,Philadelphia Roll,sushi,185.00,true
+5,2,Miso Soup,soup,75.00,true
+6,2,Salmon Sashimi,sushi,220.00,true
+7,3,Margherita Pizza,pizza,155.00,true
+8,3,Carbonara Pasta,pasta,140.00,true
+9,3,Tiramisu,dessert,95.00,true
+10,4,Doner Kebab,main,125.00,true
+11,4,Falafel Wrap,main,110.00,true
+12,5,Classic Croissant,bakery,55.00,true
+13,5,Almond Croissant,bakery,75.00,true
+14,5,Americano Coffee,drink,65.00,true
+15,6,BBQ Burger,burger,175.00,true
+16,6,Grilled Ribs,main,245.00,true
+17,6,Caesar Salad,salad,135.00,true
+18,7,Pho Bo,soup,145.00,true
+19,7,Spring Rolls,appetizer,95.00,true
+20,7,Pad Thai,main,155.00,true
+21,8,Dim Sum Set,main,185.00,true
+22,8,Kung Pao Chicken,main,165.00,true
+23,8,Wonton Soup,soup,85.00,true
+24,9,Deruny,main,95.00,true
+25,9,Holubtsi,main,120.00,true
+26,9,Salo Platter,appetizer,85.00,true
+27,10,Whopper,burger,145.00,false
+28,10,Chicken Nuggets,appetizer,95.00,false
+29,11,Bao Buns,appetizer,135.00,true
+30,11,Ramen Tonkotsu,soup,175.00,true
+31,11,Matcha Latte,drink,85.00,true
+32,12,Quattro Formaggi,pizza,180.00,true
+33,12,Pepperoni Pizza,pizza,165.00,true
+34,12,Panna Cotta,dessert,85.00,true

@@ -1,0 +1,1 @@
+select * from {{ ref('menu_items') }}

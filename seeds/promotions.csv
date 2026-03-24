@@ -1,0 +1,6 @@
+promo_id,promo_code,discount_type,discount_value,min_order_amount,start_date,end_date,is_active
+1,WELCOME10,percentage,10.00,200.00,2023-01-01,2024-12-31,true
+2,SUMMER20,percentage,20.00,300.00,2023-06-01,2023-09-30,false
+3,FLAT50,fixed,50.00,250.00,2023-04-01,2024-06-30,true
+4,NEWYEAR15,percentage,15.00,150.00,2023-12-20,2024-01-31,false
+5,FREESHIP,fixed,0.00,100.00,2023-01-01,2024-12-31,true

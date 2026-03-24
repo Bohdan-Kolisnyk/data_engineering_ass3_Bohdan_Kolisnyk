@@ -1,0 +1,20 @@
+review_id,order_id,customer_id,restaurant_id,rating,comment,created_at
+1,1,21,5,5,Good but slow delivery,2024-03-29 21:31:19
+2,3,25,3,3,Decent food,2023-06-09 01:23:25
+3,5,1,2,5,Highly recommend,2023-04-16 18:29:11
+4,6,7,9,5,Great value,2023-06-13 06:28:17
+5,8,14,3,3,Love this place,2023-10-05 08:27:28
+6,10,15,5,5,Will order again,2024-01-23 18:25:51
+7,15,8,6,4,Good but slow delivery,2023-10-08 10:33:00
+8,22,15,6,4,Love this place,2023-10-24 08:10:12
+9,25,2,7,5,Will order again,2023-03-03 03:31:39
+10,26,24,5,3,Cold when arrived,2024-03-29 08:26:55
+11,30,25,2,4,Highly recommend,2024-02-18 16:34:21
+12,33,9,9,4,Average experience,2024-03-11 16:32:35
+13,34,18,2,4,Not bad,2023-06-18 02:28:46
+14,36,25,7,4,Decent food,2024-01-22 04:07:22
+15,46,6,8,4,Decent food,2023-08-12 23:12:02
+16,50,19,9,4,Decent food,2023-10-07 00:28:41
+17,52,16,8,3,Great value,2023-11-21 10:13:08
+18,64,1,12,5,Good but slow delivery,2023-09-04 03:49:40
+19,70,5,7,4,Amazing food!,2023-06-30 15:30:06

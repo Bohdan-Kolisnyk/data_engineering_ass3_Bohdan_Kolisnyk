@@ -1,0 +1,5 @@
+target/
+dbt_packages/
+logs/
+kse_delivery.duckdb
+kse_delivery.duckdb.wal

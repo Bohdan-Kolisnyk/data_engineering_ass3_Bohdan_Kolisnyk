@@ -1,0 +1,52 @@
+version: 2
+
+models:
+  - name: dim_customers
+    columns:
+      - name: customer_id
+        tests:
+          - unique
+          - not_null
+
+  - name: dim_couriers
+    columns:
+      - name: courier_id
+        tests:
+          - unique
+          - not_null
+
+  - name: fct_orders
+    columns:
+      - name: order_id
+        tests:
+          - unique
+          - not_null
+      - name: order_status
+        tests:
+          - accepted_values:
+              values: ['delivered', 'cancelled']
+
+  - name: fct_deliveries
+    columns:
+      - name: delivery_id
+        tests:
+          - unique
+          - not_null
+
+  - name: fct_payments
+    columns:
+      - name: payment_id
+        tests:
+          - unique
+          - not_null
+      - name: payment_method
+        tests:
+          - accepted_values:
+              values: ['card', 'cash']
+
+  - name: fct_order_items
+    columns:
+      - name: order_item_id
+        tests:
+          - unique
+          - not_null

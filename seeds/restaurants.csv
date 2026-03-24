@@ -1,0 +1,13 @@
+restaurant_id,name,cuisine_type,city,rating,is_active,created_at
+1,Puzata Hata,ukrainian,Kyiv,4.5,true,2023-01-13 14:55:15
+2,Sushi Master,japanese,Kyiv,4.2,true,2022-11-03 02:40:57
+3,Pizza Celentano,italian,Lviv,4.0,true,2022-10-19 14:03:05
+4,Berliner Doner,turkish,Odesa,3.8,true,2022-08-25 04:13:03
+5,Lviv Croissants,bakery,Lviv,4.7,true,2022-07-24 17:20:43
+6,Tarantino Grill,american,Kyiv,4.3,true,2022-12-15 21:07:45
+7,Saigon,vietnamese,Kharkiv,4.1,true,2022-12-09 15:54:03
+8,Dim Sum House,chinese,Dnipro,3.9,true,2022-07-06 07:20:13
+9,Kartopliana Khata,ukrainian,Kyiv,4.4,true,2023-03-21 12:24:01
+10,Burger King,american,Odesa,3.5,false,2022-06-19 07:09:23
+11,Bao Modern Asian,asian,Kyiv,4.6,true,2022-07-13 14:00:14
+12,Napule Pizza,italian,Kharkiv,4.2,true,2022-07-30 08:35:03
